@@ -1,7 +1,8 @@
 # BChainDev
-A home gym application that gives exercises ideas by seraching different peramiters like bodyparts.
+A home gym application that gives many exercise ideas by seraching different peramiters like bodyparts. You'll be able to fine tune your workouts and discover new ways to exercise
 
 ## Screenshot:
+![Screenshot](src/assets/images/Screenshot from 2023-02-07 18-14-05.png)
 
 
 ## Built with:
